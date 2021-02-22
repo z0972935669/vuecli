@@ -24,14 +24,14 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # 安裝
-========================================
 Node版本要求: 使用nvm, 推薦更高版本
 
-使用以下指令進行安裝
-----------------------------------------
+### 使用以下指令進行安裝
+```
 npm install -g @vue/cli
 #or
 yarn global add @vue/cli
+```
 
 安裝完後，可以在命令行中訪問vue版本，驗證是否安裝完成。
 ----------------------------------------
